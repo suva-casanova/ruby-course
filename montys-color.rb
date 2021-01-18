@@ -10,6 +10,9 @@ color = gets.chop
 
  if color == "blue"
    puts "Wow! My favorite color is #{color} also!"
- else
+ elsif color== "red"
+    puts "red is not as good as blue but isnt too bad"
+else
      puts "I'm not a big fan of #{color}."
- end
+
+end
