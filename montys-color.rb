@@ -4,7 +4,7 @@ puts "What is your favorite color? enter color"
 color = gets.chop
 #puts "Wow! My favorite color is #{color} also!"
 
-
+# the hash symbols are comments in ruby
 
 # Lesson 5: Adding an Else Statement
 
